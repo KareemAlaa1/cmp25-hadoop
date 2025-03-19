@@ -14,7 +14,7 @@ This guide explains how to set up a Hadoop cluster using Docker containers. The 
 Pull the pre-built Hadoop Docker image from the provided link:
 
 ```bash
-docker pull http:454.com/hadoop-image
+docker pull kareemalaa1/hadoop:latest
 ```
 
 ### 2. Modify the `initialize.sh` File
